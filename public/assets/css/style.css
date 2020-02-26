@@ -1,7 +1,16 @@
+body {
+  background-image: url("./images/burgers.png");
+  background-size: cover;
+  
+}
+h2 {
+color:grey
+
+}
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+   
   }
   
   .label {
