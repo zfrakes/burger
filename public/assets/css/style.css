@@ -1,5 +1,6 @@
-body {
-  background-image: url("./images/burgers.png");
+
+#image{
+  background-image: url("../images/burgers.png"); 
   background-size: cover;
   
 }
