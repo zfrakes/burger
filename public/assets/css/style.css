@@ -2,26 +2,41 @@
 #image{
   background-image: url("../images/burgers.png"); 
   background-size: cover;
+  height: 1000px;
+  
+}
+h1{
+  text-align: center;
+  color:#808000;
+  background-color:#FFDEAD;
+  font-size: 75px;
+  font-family: fantasy;
   
 }
 h2 {
-color:grey
+color:#808000;
+font-family: fantasy;
 
 }
 li {
-    padding: 5px;
-    margin: 5px;
-   
+  color: grey;
+  font-family: fantasy;
+   padding: 5px;
+   margin: 5px;
+   font-size: 20px;
+  
   }
   
   .label {
-    font-weight: bold;
+    color:#808000;
+   
   }
   
   .create-update-form {
     padding: 5px;
     margin: 5px;
-    background: aqua;
+
+  
   }
   
   .form-group {
