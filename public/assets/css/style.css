@@ -1,7 +1,6 @@
 
-#image{
+body{
   background-image: url("../images/burgers.png"); 
-  background-size: cover;
   height: 1050px;
   
 }
